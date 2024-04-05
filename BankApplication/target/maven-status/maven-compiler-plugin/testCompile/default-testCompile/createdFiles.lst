@@ -1,0 +1,4 @@
+com\Bank\BankApplication\BankApplicationTests.class
+com\Bank\BankApplication\Model\UserR.class
+com\Bank\BankApplication\Controller\UserRegistration.class
+com\Bank\BankApplication\Repository\RegistrationRepo.class
